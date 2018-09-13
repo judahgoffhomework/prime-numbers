@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumbers-GUI", "PrimeNumbers-GUI\PrimeNumbers-GUI.csproj", "{C5C23845-06AB-45BE-98F2-E0D2CB3B232F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5C23845-06AB-45BE-98F2-E0D2CB3B232F}.Debug|x86.ActiveCfg = Debug|x86
+		{C5C23845-06AB-45BE-98F2-E0D2CB3B232F}.Debug|x86.Build.0 = Debug|x86
+		{C5C23845-06AB-45BE-98F2-E0D2CB3B232F}.Release|x86.ActiveCfg = Release|x86
+		{C5C23845-06AB-45BE-98F2-E0D2CB3B232F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
